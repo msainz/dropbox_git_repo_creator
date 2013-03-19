@@ -33,7 +33,7 @@ which will do the following:
 mkdir ~/Dropbox/git/foobar
 git init --bare ~/Dropbox/git/foobar/foobar.git
 cd ~/workspace
-mkdir foobar
+mkdir foobar && cd foobar
 touch README.md
 git add .
 git commit -m 'Initial Commit'
