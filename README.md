@@ -1,6 +1,6 @@
 # Dropbox git repo creator
 
-Dropbox can be a great alternative to github if you want to hack away at a small project either alone or on a team of 2-3, without necessarily using up a github repo.
+Dropbox can be a great alternative to GitHub if you want to hack away at a small project either alone or on a team of 2-3, without necessarily using up a private GitHub repo.
 
 ####Advantages
 
